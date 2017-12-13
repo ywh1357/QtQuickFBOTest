@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>texture0.jpg</file>
+        <file>cubefs.fsh</file>
+        <file>cubevs.vsh</file>
+    </qresource>
+</RCC>
